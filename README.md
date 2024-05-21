@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="GoBarber API"
-    src="https://res.cloudinary.com/alefecruz/image/upload/c_scale,w_364/v1583951059/gobarber-logo_001_q3vwgl.png" />
+    src="https://res.cloudinary.com/alefecrz/image/upload/c_scale,w_364/v1583951059/gobarber-logo_001_q3vwgl.png" />
     <br>
 </h1>
 
@@ -9,7 +9,6 @@
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/alefecruz/gobarber-api.svg">
-  <a href="https://www.codacy.com/manual/alefecruz/gobarber-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alefecruz/gobarber-api&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/dc91a79332014da0821fabba5304692f"/></a>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alefecruz/gobarber-api.svg">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/alefecruz/gobarber-api.svg">
   <a href="https://github.com/alefecruz/gobarber-api/commits/master">
